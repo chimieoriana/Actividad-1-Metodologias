@@ -9,7 +9,7 @@ Universidad Internacional de Valencia*
 Prof: Dr. Horacio Kuna
 Dictado: OCT23-24  
 
-Allumno: Oriana Diaz  
+Alumno: Oriana Diaz  
 
 ## Descripción del contenido
 
