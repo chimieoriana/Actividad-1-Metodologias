@@ -8,7 +8,7 @@ Universidad Internacional de Valencia*
 
 Prof: Dr. Horacio Kuna
 Dictado: OCT23-24  
-
+Inicio de la Actividad I : 22 /Julio/2024  
 Alumno: Oriana Diaz  
 
 ## Descripción del contenido
