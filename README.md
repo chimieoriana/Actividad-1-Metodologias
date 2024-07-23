@@ -11,6 +11,8 @@ Dictado: OCT23-24
 Inicio de la Actividad I : 22 /Julio/2024  
 Alumno: Oriana Diaz  
 
+**Repositorio de desarrollo de la practica de la asignatura**
+
 ## Descripción del contenido
 
 Carpetas:
